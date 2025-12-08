@@ -48,7 +48,7 @@
 
 ## Projects
 
-[**Tickets Hive - High-Concurrency Event Booking System**](https://github.com/segmentationfaulter/tickets-hive)  
+[**Tickets Hive - High-Concurrency Event Booking System**](https://github.com/segmentationfaulter/tickets_hive)  
 - Architected async queue-based system handling extreme concurrency scenarios with zero overbooking guarantee  
 - Achieved dramatically faster API responses using BullMQ/Redis job queues and async processing for immediate user feedback  
 - Implemented **version-based optimistic locking** in PostgreSQL, enabling significantly higher throughput and eliminating database lock contention  
