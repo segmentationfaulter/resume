@@ -73,6 +73,6 @@
 
 ---
 
-## Education & Courses
+## Courses
 
 - Programming Languages, Part A & B - University of Washington
