@@ -31,6 +31,7 @@
 
 **Software Engineer - Frontend** | Motive (formerly KeepTruckin) (Lahore) | Jul 2019 - Jul 2020  
 - Developed and enhanced features for an internal dashboard using Angular and TypeScript to improve operational efficiency.  
+- Served on the interviewing panel for frontend team new hires, conducting technical interviews and evaluating candidate competencies.  
 
 **Software Engineer** | Arbisoft (Lahore) | Feb 2019 - Jun 2019  
 - Enhanced client's discussion board with performance improvements, new features, and maintenance on Node.js backend.  
