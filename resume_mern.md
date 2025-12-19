@@ -29,7 +29,7 @@
 - Developed and maintained features for a large-scale platform using Elm, collaborating with backend teams on API design and integration for microservices.  
 - Evolved Paack-UI, an in-house design system built using Elm, improving developer productivity and ensuring consistent, high-quality user experiences across applications.  
 - Championed functional programming principles for a more predictable, testable, and maintainable codebase.  
-- Gained exposure to Google Cloud Platform for deployment and infrastructure management.
+- Utilized Google Cloud Services for efficient deployment and infrastructure management.
 
 **Software Engineer - Frontend** | Motive (formerly KeepTruckin) (Lahore) | Jul 2019 - Jul 2020  
 - Developed and enhanced features for an internal dashboard using Angular and TypeScript to improve operational efficiency.  

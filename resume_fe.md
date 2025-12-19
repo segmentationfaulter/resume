@@ -29,6 +29,7 @@
 - **Requirement Analysis:** Collaborated with product owners to analyze business requirements and provide accurate technical estimations for complex features.
 - **Mentorship:** Mentored junior team members through pair programming and comprehensive code reviews to build team strength.
 - **Performance & Security:** Tuned application code for enhanced security and performance, ensuring sub-second load times for critical platform dashboards.
+- **Cloud Infrastructure:** Utilized Google Cloud Services for efficient deployment and infrastructure management.
 
 **Software Engineer - Frontend** | Motive (formerly KeepTruckin) (Lahore) | Jul 2019 - Jul 2020  
 - **Talent Acquisition:** Served on the interviewing panel for frontend hires, evaluating candidate technical competencies and cultural fit.
