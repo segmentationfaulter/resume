@@ -8,13 +8,13 @@
 
 ## Summary
 
-**Full-stack Software Engineer** with **6+ years** of experience building and scaling production web applications. Specializes in modern **frontend technologies (React, Elm, Angular)** with substantial **backend expertise in Golang and Node.js**. Proven track record of delivering **microservices, RESTful APIs, and containerized solutions** while collaborating effectively across engineering teams. Passionate about **clean code, functional programming principles**, and evolving into **system architecture** roles with expertise in high-concurrency systems and distributed architectures.
+**Full-stack Software Engineer** with **6+ years** of experience building and scaling production web applications. Specializes in modern **frontend technologies (React, Elm, Angular)** with substantial **backend expertise in Node.js and Golang**. Proven track record of delivering **microservices, RESTful APIs, and containerized solutions** while collaborating effectively across **distributed remote** engineering teams. Passionate about **clean code, functional programming principles**, and evolving into **system architecture** roles with expertise in high-concurrency systems and distributed architectures.
 
 ---
 
 ## Skills
 
-- **Languages:** Golang, SQL, JavaScript, TypeScript, Elm, HTML5, CSS3  
+- **Languages:** JavaScript, TypeScript, Golang, SQL, Elm, HTML5, CSS3  
 - **Backend & Architecture:** RESTful APIs, Microservice Architecture, Node.js, Express.js, JWT Authentication, Redis, BullMQ, Queue Systems, Optimistic Locking, Horizontal Scaling  
 - **Databases:** PostgreSQL (ACID compliance, row-level locking, transaction management), SQLite  
 - **Developer Tools & DevOps:** Docker, Docker Compose, Git, Turborepo

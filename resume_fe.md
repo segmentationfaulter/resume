@@ -8,7 +8,7 @@
 
 ## Summary
 
-**Senior Software Engineer** with **6+ years** of experience specializing in building high-performance, scalable web applications using the **React ecosystem**. Expert in **React.js (Hooks, Context API, Redux)** and modern JavaScript (TypeScript). Proven track record in developing and maintaining **Design Systems**, implementing rigorous **Unit Testing** suites, and **mentoring junior engineers**. Deep understanding of frontend performance tuning, security compliances, and collaborative agile workflows.
+**Senior Software Engineer** with **6+ years** of experience specializing in building high-performance, scalable web applications using the **React ecosystem**. Expert in **React.js (Hooks, Context API, Redux)** and modern JavaScript (TypeScript). Proven track record in developing and maintaining **Design Systems**, implementing rigorous **Unit Testing** suites, and **mentoring junior engineers**. Deep understanding of frontend performance tuning, security compliances, and collaborating effectively across **distributed remote** engineering teams.
 
 ---
 
