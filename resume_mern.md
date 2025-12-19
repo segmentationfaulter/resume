@@ -8,7 +8,7 @@
 
 ## Summary
 
-**Full-stack Software Engineer** with **6+ years** of experience building and scaling production web applications using **React, Node.js, and modern JavaScript ecosystems**. Specializes in **full-stack development with React.js frontends and Node.js/Express.js backends**, with substantial experience in **microservices, RESTful APIs, and containerized solutions**. Proven track record of collaborating effectively across engineering teams while mentoring junior developers. Passionate about **clean code, system architecture, and building high-performance applications**.
+**Full-stack Software Engineer** with **6+ years** of experience building and scaling production web applications using **React, Node.js, and modern JavaScript ecosystems**. Specializes in **full-stack development with React.js frontends and Node.js/Express.js backends**, with substantial experience in **microservices, RESTful APIs, and containerized solutions**. Proven track record of collaborating effectively across **distributed remote** engineering teams while mentoring junior developers. Passionate about **clean code, system architecture, and building high-performance applications**.
 
 ---
 
@@ -18,8 +18,8 @@
 - **Frontend Technologies:** TypeScript, JavaScript (ES6+), Angular, Preact, Immutable.js, Component Libraries
 - **Backend & Architecture:** RESTful APIs, Microservices, JWT Authentication, Redis, BullMQ, Queue Systems, Horizontal Scaling
 - **Databases:** PostgreSQL (ACID compliance, transactions, indexing), SQLite, MongoDB (database design fundamentals)
-- **DevOps & Cloud:** Docker, Docker Compose, Git, CI/CD, Google Cloud Platform, Turborepo
-- **Languages:** Golang, SQL, Elm, HTML5, CSS3
+- **DevOps & Cloud:** Docker, Docker Compose, Git, CI/CD pipelines, Google Cloud Platform, Turborepo
+- **Languages:** JavaScript, TypeScript, Golang, SQL, Elm, HTML5, CSS3
 
 ---
 
