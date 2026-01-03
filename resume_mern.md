@@ -73,10 +73,4 @@
 [**Hacker News PWA (React)**](https://github.com/segmentationfaulter/hnpwa)  
 - Performant, responsive Progressive Web App for browsing Hacker News, built with React  
 - Showcased component-based architecture, state management, and modern React patterns  
-- Implemented responsive design and offline capabilities for enhanced user experience  
-
----
-
-## Courses
-
-- Programming Languages, Part A & B - University of Washington
+- Implemented responsive design and offline capabilities for enhanced user experience

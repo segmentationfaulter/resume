@@ -70,10 +70,4 @@
 - Command-line task manager in Go for adding, listing, completing, and deleting todos with JSON file storage, demonstrating idiomatic Go practices.  
 
 [**Hacker News PWA (React)**](https://github.com/segmentationfaulter/hnpwa)  
-- Performant, responsive Progressive Web App for browsing Hacker News, built with React, showcasing component-based architecture and state management.  
-
----
-
-## Courses
-
-- Programming Languages, Part A & B - University of Washington
+- Performant, responsive Progressive Web App for browsing Hacker News, built with React, showcasing component-based architecture and state management.
