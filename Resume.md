@@ -1,73 +1,92 @@
 # Muhammad Saqib
+
 **Software Engineer**
 
 +92 315 0776708 | muhammadsackib@gmail.com | GMT+5  
-[github.com/segmentationfaulter](https://github.com/segmentationfaulter) | [linkedin.com/in/segfaulter](https://linkedin.com/in/segfaulter)  
+[github.com/segmentationfaulter](https://github.com/segmentationfaulter) | [linkedin.com/in/segfaulter](https://linkedin.com/in/segfaulter)
 
 ---
 
 ## Summary
 
-**Full-stack Software Engineer** with **6+ years** of experience building and scaling production web applications. Specializes in modern **frontend technologies (React, Elm, Angular)** with substantial **backend expertise in Node.js and Golang**. Proven track record of delivering **microservices, RESTful APIs, and containerized solutions** while collaborating effectively across **distributed remote** engineering teams. Passionate about **clean code, functional programming principles**, and evolving into **system architecture** roles with expertise in high-concurrency systems and distributed architectures.
+**Full-stack Software Engineer** with **6+ years** of experience building and scaling production web applications. Specializes in modern **frontend technologies (React, Next.js, Elm, Angular)** with substantial **backend expertise in Node.js, tRPC, and Golang**. Proven track record of delivering **microservices, RESTful APIs, and containerized solutions** while collaborating effectively across **distributed remote** engineering teams. Passionate about **clean code, functional programming principles**, and evolving into **system architecture** roles with expertise in high-concurrency systems and distributed architectures.
 
 ---
 
 ## Skills
 
-- **Languages:** JavaScript, TypeScript, Golang, SQL, Elm, HTML5, CSS3  
-- **Backend & Architecture:** RESTful APIs, Microservice Architecture, Node.js, Express.js, JWT Authentication, Redis, BullMQ, Queue Systems, Optimistic Locking, Horizontal Scaling  
-- **Databases:** PostgreSQL (ACID compliance, row-level locking, transaction management), SQLite  
-- **Developer Tools & DevOps:** Docker, Docker Compose, Git, Turborepo
-- **Frontend:** React, Preact, Angular, Redux, Immutable.js  
+- **Languages:** JavaScript, TypeScript, Golang, SQL, Elm, HTML5, CSS3
+- **Backend & Architecture:** Node.js, **tRPC**, **Inngest (Background Jobs)**, **Better Auth (Multi-tenancy)**, Express.js, RESTful APIs, Microservice Architecture, JWT Authentication, Redis, BullMQ, **Drizzle ORM**, Horizontal Scaling
+- **Databases:** PostgreSQL (ACID compliance, row-level locking, transaction management), SQLite
+- **Developer Tools & DevOps:** Docker, Docker Compose, Git, Turborepo, **CI/CD (GitHub Actions)**, **Vercel**, **Playwright**, **Vitest**
+- **Frontend:** **React (Next.js App Router)**, **TypeScript**, **TanStack Query**, **Tailwind CSS**, **shadcn/ui**, Angular, Redux, Immutable.js
 
 ---
 
 ## Experience
 
-**Software Engineer - Frontend** | Paack (Remote) | Jul 2020 - Jun 2024  
-- Developed and maintained features for a large-scale platform using Elm, collaborating with backend teams on API design and integration for microservices.  
-- Evolved Paack-UI, an in-house design system built using Elm, improving developer productivity and ensuring consistent, high-quality user experiences across applications.  
-- Championed functional programming principles for a more predictable, testable, and maintainable codebase.  
+**Software Engineer - Frontend** | Paack (Remote) | Jul 2020 - Jun 2024
 
-**Software Engineer - Frontend** | Motive (formerly KeepTruckin) (Lahore) | Jul 2019 - Jul 2020  
-- Developed and enhanced features for an internal dashboard using Angular and TypeScript to improve operational efficiency.  
-- Served on the interviewing panel for frontend team new hires, conducting technical interviews and evaluating candidate competencies.  
+- Developed and maintained features for a large-scale platform using Elm, collaborating with backend teams on API design and integration for microservices.
+- Evolved Paack-UI, an in-house design system built using Elm, improving developer productivity and ensuring consistent, high-quality user experiences across applications.
+- Championed functional programming principles for a more predictable, testable, and maintainable codebase.
 
-**Software Engineer** | Arbisoft (Lahore) | Feb 2019 - Jun 2019  
-- Enhanced client's discussion board with performance improvements, new features, and maintenance on Node.js backend.  
+**Software Engineer - Frontend** | Motive (formerly KeepTruckin) (Lahore) | Jul 2019 - Jul 2020
 
-**Frontend Engineer** | Wavetec (Lahore) | May 2018 - Jan 2019  
-- Led frontend development of queue management simulator using React, enabling clients to model and analyze queuing strategies.  
+- Developed and enhanced features for an internal dashboard using Angular and TypeScript to improve operational efficiency.
+- Served on the interviewing panel for frontend team new hires, conducting technical interviews and evaluating candidate competencies.
 
-**Associate Product Engineer** | Qubit (Lahore) | Nov 2017 - Apr 2018  
-- Developed web portal in React for internal teams to preview recommendations from Qubit's personalization engine.  
+**Software Engineer** | Arbisoft (Lahore) | Feb 2019 - Jun 2019
 
-**Intern Developer** | Qubit (Lahore) | Feb 2017 - Oct 2017  
-- Contributed to single-page application using React, Redux, and Immutable.js for importing and merging offline data with digital datasets. 
+- Enhanced client's discussion board with performance improvements, new features, and maintenance on Node.js backend.
+
+**Frontend Engineer** | Wavetec (Lahore) | May 2018 - Jan 2019
+
+- Led frontend development of queue management simulator using React, enabling clients to model and analyze queuing strategies.
+
+**Associate Product Engineer** | Qubit (Lahore) | Nov 2017 - Apr 2018
+
+- Developed web portal in React for internal teams to preview recommendations from Qubit's personalization engine.
+
+**Intern Developer** | Qubit (Lahore) | Feb 2017 - Oct 2017
+
+- Contributed to single-page application using React, Redux, and Immutable.js for importing and merging offline data with digital datasets.
 
 ---
 
 ## Projects
 
-[**Tickets Hive - High-Concurrency Event Booking System**](https://github.com/segmentationfaulter/tickets_hive)  
-- Architected async queue-based system handling extreme concurrency scenarios with zero overbooking guarantee  
-- Achieved dramatically faster API responses using BullMQ/Redis job queues and async processing for immediate user feedback  
-- Implemented **version-based optimistic locking** in PostgreSQL, enabling significantly higher throughput and eliminating database lock contention  
-- Built production-ready monorepo with Turborepo, Docker, OpenAPI documentation, and horizontal scaling architecture  
-- Designed comprehensive error handling, load testing suite, and graceful shutdown for production resilience  
+[**CollabSpace - Full-Stack Project Collaboration Platform**](https://github.com/segmentationfaulter/collab-space)
 
-[**Bookmarks Manager API (Golang)**](https://github.com/segmentationfaulter/bookmarks-manager-api)  
-- Designed secure, performant RESTful API in Golang using standard library.  
-- Implemented clean, layered microservice architecture for scalability and maintainability.  
-- Used SQLite for data storage with efficient raw SQL queries for CRUD operations.  
-- Secured endpoints with JWT authentication and bcrypt password hashing.  
+- Engineered a portfolio-grade collaboration platform using **Next.js (App Router, RSC, Suspense)**, **TypeScript**, and **tRPC** for end-to-end type safety.
+- Implemented **multi-tenancy** (Workspaces) using **Better Auth Organizations**, enabling secure user roles and permissions management.
+- Developed **event-driven background jobs** for automated notifications and invitations using **Inngest**.
+- Designed a scalable relational schema with **PostgreSQL** and **Drizzle ORM**, ensuring high data integrity and performance.
 
-[**Real-world API (Node.js)**](https://github.com/segmentationfaulter/realworld_api)  
-- Implemented "RealWorld" backend API spec using Node.js, Express, and PostgreSQL, with REST design, JWT authentication, and database modeling.  
-- Containerized application and database with Docker and Docker Compose for consistent environments.  
+[**Tickets Hive - High-Concurrency Event Booking System**](https://github.com/segmentationfaulter/tickets_hive)
 
-[**Todo CLI (Golang)**](https://github.com/segmentationfaulter/todo-cli-app)  
-- Command-line task manager in Go for adding, listing, completing, and deleting todos with JSON file storage, demonstrating idiomatic Go practices.  
+- Architected async queue-based system handling extreme concurrency scenarios with zero overbooking guarantee
+- Achieved dramatically faster API responses using BullMQ/Redis job queues and async processing for immediate user feedback
+- Implemented **version-based optimistic locking** in PostgreSQL, enabling significantly higher throughput and eliminating database lock contention
+- Built production-ready monorepo with Turborepo, Docker, OpenAPI documentation, and horizontal scaling architecture
+- Designed comprehensive error handling, load testing suite, and graceful shutdown for production resilience
 
-[**Hacker News PWA (React)**](https://github.com/segmentationfaulter/hnpwa)  
+[**Bookmarks Manager API (Golang)**](https://github.com/segmentationfaulter/bookmarks-manager-api)
+
+- Designed secure, performant RESTful API in Golang using standard library.
+- Implemented clean, layered microservice architecture for scalability and maintainability.
+- Used SQLite for data storage with efficient raw SQL queries for CRUD operations.
+- Secured endpoints with JWT authentication and bcrypt password hashing.
+
+[**Real-world API (Node.js)**](https://github.com/segmentationfaulter/realworld_api)
+
+- Implemented "RealWorld" backend API spec using Node.js, Express, and PostgreSQL, with REST design, JWT authentication, and database modeling.
+- Containerized application and database with Docker and Docker Compose for consistent environments.
+
+[**Todo CLI (Golang)**](https://github.com/segmentationfaulter/todo-cli-app)
+
+- Command-line task manager in Go for adding, listing, completing, and deleting todos with JSON file storage, demonstrating idiomatic Go practices.
+
+[**Hacker News PWA (React)**](https://github.com/segmentationfaulter/hnpwa)
+
 - Performant, responsive Progressive Web App for browsing Hacker News, built with React, showcasing component-based architecture and state management.
