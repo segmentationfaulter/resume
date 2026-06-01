@@ -25,7 +25,7 @@
 
 ## Experience
 
-**Independent Software Engineer** | Self-Employed (Remote) | Jul 2024 - Present
+**Independent Software Engineer** | Jul 2024 - Present
 
 - Built and launched **Rishta Center** (rishta.center), a production matchmaking platform serving the Pakistani community — sole engineer handling all phases from spec/PRD and UI/UX through full-stack development to deployment
 - Architected zero-cost infrastructure on **Cloudflare** (Workers, D1, R2, Images) with trunk-based CI/CD, automated **Drizzle ORM** migrations, isolated prod/staging/preview environments, and **PageSpeed Insights** scores of ~90 performance / 100 across all other metrics
