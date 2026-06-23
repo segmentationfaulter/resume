@@ -9,8 +9,6 @@ This is a **Non-Code Project** serving as a central repository for personal care
 ### Key Files
 
 - **[resume.md](./resume.md)**: The general-purpose resume. It provides a balanced view of full-stack capabilities, including Frontend (React, Elm, Angular), Backend (Node.js, Golang), and System Architecture.
-- **[resume_fe.md](./resume_fe.md)**: A specialized resume tailored for **Senior Frontend Engineer** roles, with a heavy emphasis on the React ecosystem, Design Systems (Paack-UI), performance tuning, and frontend leadership/mentorship.
-- **[resume_mern.md](./resume_mern.md)**: A specialized resume tailored for **Senior Full Stack Engineer** roles, focusing on the MERN stack (React, Node.js, Express.js) and database management (PostgreSQL, MongoDB).
 
 ## Professional Profile Summary
 
