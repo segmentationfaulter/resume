@@ -9,7 +9,7 @@
 
 ## Summary
 
-**Full-Stack Software Engineer** with **6+ years** of experience building and scaling production web applications, including shipping and operating a complete platform independently from concept to production. Specializes in modern **frontend technologies (React, Next.js, TanStack Start, Elm, Angular)** with substantial **backend expertise in Node.js and Golang**. Delivered microservices, RESTful APIs, and containerized solutions while collaborating effectively across distributed remote engineering teams. Passionate about clean code, functional programming principles, and evolving into **system architecture** roles with expertise in high-concurrency systems and distributed architectures.
+**Full-Stack Software Engineer** with **6+ years** of experience building and scaling production web applications, including shipping a complete production platform independently from concept to launch. Specializes in modern **frontend technologies (React, Next.js, TanStack Start, Elm, Angular)** with substantial **backend expertise in Node.js and Golang**. Delivered microservices, RESTful APIs, and containerized solutions while collaborating effectively across distributed remote engineering teams. Passionate about clean code, functional programming principles, and evolving into **system architecture** roles with expertise in high-concurrency systems and distributed architectures.
 
 ---
 
@@ -27,7 +27,7 @@
 
 **Independent Software Engineer** | Jul 2024 - Present
 
-- Built and launched **Rishta Center** (rishta.center), a production matchmaking platform serving the Pakistani community — sole engineer handling all phases from spec/PRD and UI/UX through full-stack development to deployment
+- Built and launched **Rishta Center** (rishta.center), a **non-commercial, social-welfare** matchmaking platform serving the Pakistani community — sole engineer handling all phases from spec/PRD and UI/UX through full-stack development to deployment
 - Architected zero-cost infrastructure on **Cloudflare** (Workers, D1, R2, Images) with trunk-based CI/CD, automated **Drizzle ORM** migrations, isolated prod/staging/preview environments, and **PageSpeed Insights** scores of ~90 performance / 100 across all other metrics
 - Designed "Give-to-Get" community model with rate-limited contact reveals (5/day), anti-scraping protections, and audit logging to prevent commercial data harvesting
 - Built 100% **Urdu RTL** interface with mobile-first responsive design, dual-script input (Urdu/Roman Urdu), and accessibility optimized for older users
