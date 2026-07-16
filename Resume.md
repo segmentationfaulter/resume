@@ -32,7 +32,7 @@
 - Designed "Give-to-Get" community model with rate-limited contact reveals (5/day), anti-scraping protections, and audit logging to prevent commercial data harvesting
 - Built 100% **Urdu RTL** interface with mobile-first responsive design, dual-script input (Urdu/Roman Urdu), and accessibility optimized for older users
 - Engineered 1:N multi-profile schema (up to 3 profiles/user) with gender-aware photo logic, **Cloudflare Images** face-cropping, and admin-only CSV bulk-upload for canonical data seeding
-- Built multiple portfolio projects (CollabSpace, Tickets Hive, Bookmarks Manager API) demonstrating event-driven architectures with **Inngest**, high-concurrency systems with **BullMQ/Redis**, multi-tenancy with **Better Auth**, and idiomatic **Golang** API design — detailed in Projects section
+- Built multiple portfolio projects (CollabSpace, Tickets Hive, Bookmarks Manager API) demonstrating high-concurrency systems with **BullMQ/Redis**, multi-tenancy with **Better Auth**, and idiomatic **Golang** API design — detailed in Projects section
 
 **Software Engineer - Frontend** | Paack (Remote) | Jul 2020 - Jun 2024
 
