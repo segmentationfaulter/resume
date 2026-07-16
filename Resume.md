@@ -16,10 +16,10 @@
 ## Skills
 
 - **Languages:** JavaScript, TypeScript, Golang, SQL, Elm, HTML, CSS
-- **Backend:** Node.js, Express.js, tRPC, RESTful APIs, Drizzle ORM, Zod, Better Auth (Multi-tenancy), JWT Authentication, Inngest (Background Jobs), Redis, BullMQ, Cloudflare (Workers, D1, R2, Images)
+- **Frontend:** React (Next.js App Router, TanStack Start), TanStack Query, TanStack Router, Tailwind CSS, shadcn/ui, Angular, Redux
+- **Backend:** Node.js, Express.js, tRPC, RESTful APIs, Drizzle ORM, Zod, Better Auth (Multi-tenancy), JWT Authentication, Redis, BullMQ, Cloudflare (Workers, D1, R2, Images)
 - **Databases:** PostgreSQL (ACID compliance, row-level locking, transaction management), SQLite
 - **Developer Tools & DevOps:** Docker, Docker Compose, Git, Turborepo, CI/CD (GitHub Actions), Vercel, Playwright, Vitest
-- **Frontend:** React (Next.js App Router, TanStack Start), TypeScript, TanStack Query, TanStack Router, Tailwind CSS, shadcn/ui, Angular, Redux
 
 ---
 
